@@ -7,3 +7,4 @@ logs
 Profile
 tmp
 start.bat
+lib/*-sources.jar
